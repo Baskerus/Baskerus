@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Baskerus
-- 👀 I’m interested in Front End Development
+-  I'm a Front End Developer
 - 🌱 I’m currently learning React.js
 
 <!---
