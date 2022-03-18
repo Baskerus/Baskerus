@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Baskerus
 -  I'm a Front End Developer
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React and Angular
 
 <!---
 Baskerus/Baskerus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
